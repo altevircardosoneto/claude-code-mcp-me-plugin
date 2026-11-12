@@ -1,0 +1,14 @@
+{
+  "name": "effecti-mcp",
+  "description": "Plugins internos da Effecti",
+  "owner": {
+    "name": "Effecti"
+  },
+  "plugins": [
+    {
+      "name": "effecti-mcp-me",
+      "source": ".",
+      "description": "Conecta o Claude ao servidor MCP da Effecti (ME) com autenticação OAuth."
+    }
+  ]
+}
