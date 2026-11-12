@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "effecti-me": {
+      "type": "http",
+      "url": "https://mcp-me.prod.effecti.com.br/mcp"
+    }
+  }
+}
