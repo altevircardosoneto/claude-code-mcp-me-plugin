@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "effecti-mcp-me",
-      "source": ".",
+      "source": "./",
       "description": "Conecta o Claude ao servidor MCP da Effecti (ME) com autenticação OAuth."
     }
   ]
