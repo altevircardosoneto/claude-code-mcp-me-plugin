@@ -1,0 +1,10 @@
+{
+  "name": "effecti-mcp-me",
+  "displayName": "Effecti MCP - ME",
+  "version": "1.0.0",
+  "description": "Conecta o Claude ao servidor MCP da Effecti (ME) com autenticação OAuth.",
+  "author": {
+    "name": "Effecti"
+  },
+  "keywords": ["effecti", "mcp", "me"]
+}
